@@ -7,7 +7,7 @@ This repo contains my arch linux configs along with an automation script for ful
 ## Installation
 1. Clone the repo
 ```bash
-git clone https://github.com/Wintersunset95/Arch-Dotfiles.git
+git clone https://github.com/mahmudullah375-eng/Arch-Dotfiles.git
 ```
 2. Run the install script
 ```bash
