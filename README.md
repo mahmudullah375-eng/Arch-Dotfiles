@@ -12,6 +12,7 @@ git clone https://github.com/mahmudullah375-eng/Arch-Dotfiles.git
 2. Run the install script
 ```bash
 cd Arch-Dotfiles
+chmod +x setup.sh
 ./setup.sh
 ```
 3. Fix any errors that might occur. You're on your own here.
